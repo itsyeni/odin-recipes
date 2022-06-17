@@ -3,6 +3,12 @@
     background-color:burlywood ;
 }
 
+#recipes {
+    text-align: center;
+    list-style:inside;
+    font-size: 25px;
+}
+
 h1 {
     
     font-size: 50px;

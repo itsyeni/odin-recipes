@@ -12,6 +12,15 @@ h1 {
     color: black;
 }
 
+h2 {
+    font-size: 25px;
+    text-decoration:underline;
+}
+
+.text {
+    font-size: 20px;
+}
+
 div.center {
     text-align: center;
 }
@@ -20,4 +29,5 @@ div.center {
     height: auto;
     width: 550px;
 }
+
 

@@ -1,1 +1,1 @@
-# odin-recipes
+The idea of this project is to create a basic website that links to recipes. The website will consist of a main index page which will have links and when those links are clicked, they will take you to another page where you can see the recipe for the dish. Some skills that will be demonstrated once the project is complete is a mastering of using links to other websites as well as knowing how to use basic html functions like making headers,paragraphs,bold/italics, inserting images etc.

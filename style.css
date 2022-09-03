@@ -9,6 +9,15 @@ h1,
     text-align: center;
 }
 
+h1,
+h2{
+    text-decoration: underline;
+}
+
+.list{
+    list-style: inside;
+}
+
 .cooking,
 .katsudon,
 .ebi-fry,

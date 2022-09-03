@@ -1,0 +1,23 @@
+body {
+    background-color: bisque;
+    font-family: Arial, Helvetica, sans-serif
+}
+
+h1,
+.img,
+.list {
+    text-align: center;
+}
+
+.cooking,
+.katsudon,
+.ebi-fry,
+.ramen{
+    height: auto;
+    width: 500px
+}
+
+button {
+    background-color: #cc9966;
+}
+
